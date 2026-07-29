@@ -3,22 +3,6 @@
 
 ---
 
-**Universidad:** __________________________
-
-**Facultad:** __________________________
-
-**Curso:** __________________________
-
-**Docente:** __________________________
-
-**Estudiante:** __________________________
-
-**Carné:** __________________________
-
-**Fecha:** __________________________
-
----
-
 # Índice
 
 1. Introducción
@@ -60,11 +44,12 @@ Realizar el mantenimiento preventivo de una computadora de escritorio aplicando 
 
 # 3. Componentes Principales de una Computadora de Escritorio
 
-## Tarjeta Madre (Motherboard)
+## Tarjeta Madre 
 
 Es la placa principal del computador. Sobre ella se conectan todos los componentes internos como el procesador, la memoria RAM, los dispositivos de almacenamiento y las tarjetas de expansión. Permite la comunicación entre cada uno de los dispositivos instalados.
 
-> **Insertar imagen de la tarjeta madre.**
+ <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/b6245bb7-e4fc-42e7-b1e8-8f6da2032885" />
+
 
 ---
 
@@ -72,7 +57,8 @@ Es la placa principal del computador. Sobre ella se conectan todos los component
 
 El procesador es considerado el cerebro de la computadora. Su función consiste en ejecutar instrucciones, realizar cálculos y coordinar todas las operaciones del sistema operativo y los programas instalados.
 
-> **Insertar imagen del procesador.**
+<img width="497" height="402" alt="image" src="https://github.com/user-attachments/assets/1d0053ec-2bc6-400f-853b-da74ed002466" />
+
 
 ---
 
@@ -80,7 +66,8 @@ El procesador es considerado el cerebro de la computadora. Su función consiste 
 
 La memoria RAM almacena temporalmente la información que está utilizando el sistema operativo y los programas en ejecución. Mientras mayor sea la memoria RAM disponible, mejor será el rendimiento del equipo al ejecutar varias aplicaciones simultáneamente.
 
-> **Insertar imagen de la memoria RAM.**
+<img width="3000" height="2000" alt="image" src="https://github.com/user-attachments/assets/60bd9843-e0c7-4bf4-b701-be5d8cd24acc" />
+
 
 ---
 
@@ -88,7 +75,9 @@ La memoria RAM almacena temporalmente la información que está utilizando el si
 
 El SSD es el dispositivo donde se almacena el sistema operativo y los archivos del usuario. A diferencia de un disco duro tradicional, no posee partes mecánicas, ofreciendo una mayor velocidad de lectura y escritura.
 
-> **Insertar imagen del SSD.**
+
+<img width="660" height="439" alt="image" src="https://github.com/user-attachments/assets/6b09d697-d0d1-417b-8ce0-abdce944e691" />
+
 
 ---
 
@@ -96,7 +85,8 @@ El SSD es el dispositivo donde se almacena el sistema operativo y los archivos d
 
 Algunas computadoras utilizan discos duros mecánicos para almacenar grandes cantidades de información. Aunque son más lentos que un SSD, ofrecen mayor capacidad de almacenamiento a menor costo.
 
-> **Insertar imagen del HDD (si posee).**
+<img width="1200" height="676" alt="image" src="https://github.com/user-attachments/assets/0ed18ce3-b3fd-465a-82ca-b28334c51e06" />
+
 
 ---
 
@@ -104,7 +94,8 @@ Algunas computadoras utilizan discos duros mecánicos para almacenar grandes can
 
 La fuente de poder convierte la corriente alterna proveniente del tomacorriente en corriente continua necesaria para alimentar correctamente todos los componentes internos del computador.
 
-> **Insertar imagen de la fuente de poder.**
+<img width="554" height="554" alt="image" src="https://github.com/user-attachments/assets/66e57bc1-9c35-4eaf-8aa9-79bfd3bc2fe4" />
+
 
 ---
 
@@ -112,7 +103,8 @@ La fuente de poder convierte la corriente alterna proveniente del tomacorriente 
 
 Está compuesto por el disipador de calor y los ventiladores. Su función principal es mantener una temperatura adecuada del procesador y demás componentes para evitar sobrecalentamientos.
 
-> **Insertar imagen del disipador y ventiladores.**
+<img width="1600" height="1067" alt="image" src="https://github.com/user-attachments/assets/7b182811-f745-42ba-800c-ef90cfe7432a" />
+
 
 ---
 
@@ -120,7 +112,8 @@ Está compuesto por el disipador de calor y los ventiladores. Su función princi
 
 La pasta térmica mejora la transferencia de calor entre el procesador y el disipador. Con el paso del tiempo pierde sus propiedades, por lo que es recomendable reemplazarla durante el mantenimiento preventivo.
 
-> **Insertar imagen de la pasta térmica.**
+<img width="200" height="178" alt="image" src="https://github.com/user-attachments/assets/237ffb79-e67e-4f78-bbb4-b455c5913590" />
+
 
 ---
 
@@ -128,14 +121,13 @@ La pasta térmica mejora la transferencia de calor entre el procesador y el disi
 
 ## Herramientas Utilizadas
 
-- Destornilladores Phillips.
+- Destornilladores.
 - Aire comprimido.
-- Brocha antiestática.
-- Alcohol isopropílico (90% o superior).
+- Alcohol isopropílico.
 - Pasta térmica.
 - Paño de microfibra.
-- Pulsera antiestática (opcional).
-- Recipiente para organizar tornillos.
+- Limpia Pantalla.
+- Espuma limpiadora. 
 
 ---
 
@@ -231,8 +223,6 @@ Verificar que:
 - No existan ruidos anormales.
 - Las temperaturas del procesador sean adecuadas.
 
-> **Insertar fotografías del proceso realizado.**
-
 ---
 
 # 6. Recomendaciones
@@ -254,7 +244,7 @@ Durante esta práctica fue posible identificar los principales dispositivos inte
 
 ---
 
-# 8. Bibliografía (APA 7)
+# 8. Bibliografía 
 
 Dell Technologies. (2024). *Service Manual*. https://www.dell.com/support
 
