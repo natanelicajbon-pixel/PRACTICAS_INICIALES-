@@ -12,8 +12,6 @@
 
 # Informe No. 1
 ## Mantenimiento e Infraestructura de Hardware
-
-### Manual Técnico
 ### Mantenimiento Preventivo de una Computadora de Escritorio
 
 ---
@@ -28,7 +26,7 @@
 
 **Sección:** C
 
-**Fecha:** Julio 2926
+**Fecha:** 30/07/2026
 
 </div>
 
