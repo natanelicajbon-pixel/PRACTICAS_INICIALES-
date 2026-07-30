@@ -63,6 +63,6 @@ El contenido incluye:
 
 **Escuela de Ciencias y Sistemas**
 
-*2026*
+*Julio 2026*
 
 </div>
