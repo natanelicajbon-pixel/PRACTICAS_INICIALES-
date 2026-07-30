@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="img/logo-usac.png" alt="Logo USAC" width="180"/>
+<img width="196" height="186" alt="image" src="https://github.com/user-attachments/assets/89ed115f-fcd9-4a9f-a07e-6d1ec61c2e6e" />
+
 
 # Universidad de San Carlos de Guatemala
 ## Facultad de Ingeniería
@@ -16,17 +17,17 @@
 
 ---
 
-**Curso:** Organización Computacional
+**Curso:** Practicas Iniciales
 
-**Docente:** _______________________
+**Docente:** Floriza Avila
 
-**Estudiante:** _______________________
+**Estudiante:** Nataneli Ayeleth Hashajar Cajbón Sabán
 
-**Carné:** _______________________
+**Carné:** 202501861
 
-**Sección:** _______________________
+**Sección:** C
 
-**Fecha:** Julio 2026
+**Fecha:** Julio 2926
 
 </div>
 
@@ -42,7 +43,6 @@ El contenido incluye:
 - 📑 Trifoliar informativo
 - 🎥 Video demostrativo
 - 🤖 Prompts utilizados para la generación de contenido mediante Inteligencia Artificial
-- 📷 Evidencias fotográficas del mantenimiento
 
 ---
 
@@ -55,26 +55,6 @@ El contenido incluye:
 
 ---
 
-## Contenido del Repositorio
-
-```text
-📂 docs/
-    ├── Manual_Tecnico.pdf
-    ├── Trifoliar.pdf
-    ├── Prompts.pdf
-
-📂 img/
-    ├── logo-usac.png
-    ├── mantenimiento1.jpg
-    ├── mantenimiento2.jpg
-
-📂 video/
-    └── Enlace_al_video.txt
-
-README.md
-```
-
----
 
 <div align="center">
 
