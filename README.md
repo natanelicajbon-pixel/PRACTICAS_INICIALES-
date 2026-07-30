@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="196" height="186" alt="image" src="https://github.com/user-attachments/assets/89ed115f-fcd9-4a9f-a07e-6d1ec61c2e6e" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c9059ff6-ef09-408f-afd9-9b892fc7771e" />
+
 
 
 # Universidad de San Carlos de Guatemala
@@ -19,7 +20,7 @@
 
 **Curso:** Practicas Iniciales
 
-**Docente:** Floriza Avila
+**Ingeniera:** Floriza Avila
 
 **Estudiante:** Nataneli Ayeleth Hashajar Cajbón Sabán
 
