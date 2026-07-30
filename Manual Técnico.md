@@ -22,7 +22,7 @@ El mantenimiento preventivo es el conjunto de actividades realizadas de forma pe
 
 En esta práctica se realizó el mantenimiento preventivo de una computadora de escritorio Dell, efectuando el desmontaje del gabinete, la limpieza interna utilizando aire comprimido y brocha antiestática, la sustitución de la pasta térmica del procesador, la inspección de cada componente y el posterior ensamblaje del equipo para verificar su correcto funcionamiento.
 
-La realización de este procedimiento permite mejorar la disipación del calor, mantener un rendimiento estable y disminuir el riesgo de averías futuras.
+La realización de este procedimiento permite mejorar la disipación del calor, mantener un rendimiento estable y disminuir el riesgo de averías futuras. 
 
 ---
 
@@ -207,6 +207,16 @@ Verificar que la memoria RAM, los dispositivos de almacenamiento y los conectore
 ## Paso 10. Cerrar el gabinete
 
 Colocar nuevamente la tapa lateral y asegurarla utilizando los tornillos retirados anteriormente.
+
+---
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/80fe94f9-55a4-4e9b-9a77-3684a881633a" />
+
+<img width="632" height="316" alt="image" src="https://github.com/user-attachments/assets/35eec709-536e-4138-bb83-816139dca7fd" />
+
+<img width="738" height="324" alt="image" src="https://github.com/user-attachments/assets/3a2d3162-d92d-4cc3-b085-a5a1ab112b02" />
+
+<img width="697" height="435" alt="image" src="https://github.com/user-attachments/assets/75f5c7fa-9166-4d56-897a-9213a8cb8712" />
 
 ---
 
